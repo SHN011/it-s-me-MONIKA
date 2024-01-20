@@ -7,5 +7,6 @@ public class add {
     int c;
     c=a+b;
     System.out.println(c);
+}
 
-    }}
+}
